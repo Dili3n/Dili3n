@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on MY OWN WEBSITE
+- 🌱 I’m currently learning Python, JavaScript, Java, C#, C, C++, Go, R, Swift, PHP
+- ⚡ Fun fact: I am me
+
 <!--
 **Dili3n/Dili3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
