@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on MY OWN WEBSITE
-- 🌱 I’m currently learning Python, JavaScript, Java, C#, C, C++, Go, R, Swift, PHP
+- 🌱 I’m currently learning Python, JavaScript, Java, C#, C, C++, Go, R, Swift, PHP, Caml, Bash...
 - ⚡ Fun fact: I am me
 
 <!--
