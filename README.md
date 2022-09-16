@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on MY OWN WEBSITE https://dilien-oeuvrard.com/
-- 🌱 I’m currently learning Python, JavaScript, Java, C#, C, C++, Go, R, Swift, PHP, Caml, Bash...
-- ⚡ Fun fact: I am me
+- 🌱 I’m currently learning Python, JavaScript, Java, C#, C, C++, Go, R, Swift, PHP, Caml, Bash,...
+- ⚡ Fun fact: PC SOFT pro developer xD
 
 <!--
 **Dili3n/Dili3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
