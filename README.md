@@ -1,1 +1,1 @@
-https://oeuvrard.com & https://dilien.oeuvrard.com/
+https://oeuvrard.com || https://dilien.oeuvrard.com/
